@@ -4,7 +4,7 @@
 But after it I decided to go further and start to learn coding. 
 I finished JavaRush courses and continue to improve myself everyday.
 
-Here I have several repositories, where I share my experience using Java
+Here I have several repositories, where I share my experience using Java.
 Tasks repository is about solving small syntax tasks and studying JavaCore.
 The other repositories mostly are about Spring framework
 
