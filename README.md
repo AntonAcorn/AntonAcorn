@@ -1,4 +1,4 @@
-👋 Hi, my name is Anton and I starving to be a Java Developer
+👋 Hi, my name is Anton and I am starving to be a Java Developer
 
 👀Graduated from the courses of a Quality Engineer. 
 But after it I decided to go further and start to learn coding. 
