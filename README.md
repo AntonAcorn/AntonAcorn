@@ -5,8 +5,26 @@ But after it I decided to go further and start to learn coding.
 I finished Java courses and continue to improve myself everyday.
 
 Here I have several repositories, where I share my experience using Java.
+Try to use my pet projects:
+
+✨ https://github.com/AntonAcorn/MyLibrary. 
+This is a Library application deployed to AWS EC2 (http://mylibrary-env.eba-6fniism4.us-east-1.elasticbeanstalk.com)
+
+✨https://github.com/AntonAcorn/JavaRushTelegrambot
+This is a telegram bot. Project warapped into docker and docker composer. In readme file it is desribed how to use it.
+In this project Spring boot, FlyAway, Spring Scheduler are used
+
+✨https://github.com/AntonAcorn/URLShortener
+This is a simple URL Shortener. Using only API
+
+✨https://github.com/AntonAcorn/SensorRestServer
+This is an API service in which you can add sensor and read its measurments
+
+✨https://github.com/AntonAcorn/MyLibraryCRUDApp
+This is the same as Library Application, but uses JDBC Template
+
 Tasks repository is about solving small syntax tasks and studying JavaCore.
-The other repositories mostly are about Spring framework
+The other repositories mostly are about Spring framework and I keep just for myself in case to refresh some information
 
 📫 - ShustikovAnimation@gmail.com
 ✨ - @AntonShustikov
