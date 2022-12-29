@@ -1,7 +1,7 @@
 👋 Hi, my name is Anton and I am starving to be a Java Developer
 
 👀Graduated from the courses of a Quality Engineer. 
-But after it I decided to go further and start to learn coding. 
+But I decided to go further and start to learn coding. 
 I finished Java courses and continue to improve myself everyday.
 
 Here I have several repositories, where I share my experience using Java.
