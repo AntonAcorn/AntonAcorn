@@ -13,7 +13,7 @@ This is a Library application deployed to AWS EC2 (http://mylibrary-env.eba-6fni
 ✨https://github.com/AntonAcorn/BabushkinPogreb
 File hosting with asynchronous message processing using RabbitMQ
 
-✨https://github.com/AntonAcorn/JavaRushTelegrambot
+✨https://github.com/AntonAcorn/TelegramFileHosting
 This is a telegram bot. Project warapped into docker and docker composer. In readme file it is desribed how to use it.
 In this project Spring boot, FlyAway, Spring Scheduler are used
 
