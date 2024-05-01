@@ -1,16 +1,13 @@
-👋 Hi, my name is Anton and I am a Java Developer
-
-👀Graduated from the courses of a Quality Engineer and Java Developer. 
+👋 Hi, my name is Anton
 
 Here I have several repositories, where I share my experience using Java.
 Try to use my pet projects:
 
+✨https://github.com/AntonAcorn/TelegramFileHosting
+This is a Telegram bot project wrapped into Docker. In the README file, it is described how to use it
+
 ✨ https://github.com/AntonAcorn/MyLibrary. 
 This is a Library application
-
-✨https://github.com/AntonAcorn/TelegramFileHosting
-This is a telegram bot. Project warapped into docker and docker composer. In readme file it is desribed how to use it.
-In this project Spring boot, FlyAway, Spring Scheduler are used
 
 ✨https://github.com/AntonAcorn/URLShortener
 This is a simple URL Shortener. Using only API
