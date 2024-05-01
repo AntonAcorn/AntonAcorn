@@ -6,10 +6,7 @@ Here I have several repositories, where I share my experience using Java.
 Try to use my pet projects:
 
 ✨ https://github.com/AntonAcorn/MyLibrary. 
-This is a Library application deployed to AWS EC2 (http://mylibrary-env.eba-6fniism4.us-east-1.elasticbeanstalk.com)
-
-✨https://github.com/AntonAcorn/BabushkinPogreb
-File hosting with asynchronous message processing using RabbitMQ
+This is a Library application
 
 ✨https://github.com/AntonAcorn/TelegramFileHosting
 This is a telegram bot. Project warapped into docker and docker composer. In readme file it is desribed how to use it.
