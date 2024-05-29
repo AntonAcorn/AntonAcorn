@@ -1,6 +1,6 @@
 👋 Hi, my name is Anton
 
-Here I have several repositories, where I share my experience using Js and Java.
+Here I have several repositories, where I share my experience in frontend and backend using Js and Java.
 Try to use my pet projects:
 
 **Frontend repos:**
