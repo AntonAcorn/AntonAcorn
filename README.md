@@ -1,7 +1,12 @@
 👋 Hi, my name is Anton
 
-Here I have several repositories, where I share my experience using Java.
+Here I have several repositories, where I share my experience using Js and Java.
 Try to use my pet projects:
+
+**Frontend repos:**
+✨https://github.com/AntonAcorn/enterprise-to-do-list-angular
+
+**Backend repos:**
 
 ✨https://github.com/AntonAcorn/TelegramFileHosting
 This is a Telegram bot project wrapped into Docker. In the README file, it is described how to use it
