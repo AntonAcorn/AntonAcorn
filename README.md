@@ -6,6 +6,10 @@ Try to use my pet projects:
 **Frontend repos:**
 
 ✨https://github.com/AntonAcorn/enterprise-to-do-list-angular
+This is an enterprise todo-list
+
+✨https://github.com/AntonAcorn/investment-calculator-angular
+This is an investment calculator
 
 **Backend repos:**
 
