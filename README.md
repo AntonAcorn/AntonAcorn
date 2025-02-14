@@ -3,16 +3,6 @@
 Here I have several repositories, where I share my experience in frontend and backend using Js and Java.
 Try to use my pet projects:
 
-**Frontend repos:**
-
-✨https://github.com/AntonAcorn/enterprise-to-do-list-angular
-This is an enterprise todo-list (Angular)
-
-✨https://github.com/AntonAcorn/investment-calculator-angular
-This is an investment calculator (Angular)
-
-✨https://github.com/AntonAcorn/travel_layout
-Landing page for one tourist spot (Gulp: html, css)
 
 **Backend repos:**
 
@@ -33,6 +23,17 @@ This is the same as Library Application, but uses JDBC Template
 
 Tasks repository is about solving small syntax tasks and studying JavaCore.
 The other repositories mostly are about Spring framework and I keep just for myself in case to refresh some information
+
+**Frontend repos:**
+
+✨https://github.com/AntonAcorn/enterprise-to-do-list-angular
+This is an enterprise todo-list (Angular)
+
+✨https://github.com/AntonAcorn/investment-calculator-angular
+This is an investment calculator (Angular)
+
+✨https://github.com/AntonAcorn/travel_layout
+Landing page for one tourist spot (Gulp: html, css)
 
 📫 - ShustikovAnimation@gmail.com
 ✨ - @AntonShustikov
