@@ -1,5 +1,3 @@
-👋 Hi, my name is Anton
-
 Here I have several repositories, where I share my experience in backend and frontend.
 Try to use my pet projects:
 
